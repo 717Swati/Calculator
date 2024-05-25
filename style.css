@@ -100,7 +100,10 @@ form input.equal-to:hover {
     .calculator {
         align-items: flex-start;
         /* Aligns the calculator to the top */
-        padding-top: 100px;
+        padding-top: 80px;
         /* Adds some padding to the top */
+    }
+    .buttons {
+        height: 60%;
     }
 }
