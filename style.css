@@ -104,6 +104,8 @@ form input.equal-to:hover {
         /* Adds some padding to the top */
     }
     .buttons {
-        height: 60%;
+         width: 100%;
+        padding: 10px;
+        box-sizing: border-box;
     }
 }
